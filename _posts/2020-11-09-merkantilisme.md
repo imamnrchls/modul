@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Mari Belajar Sejarah Pencarian Rempah-Rempah!
+title:  Merkantilisme Itu Apa sih??
 date:   2020-11-09 14:50:35 +0300
 image:  '/assets/img/07.jpg'
-tags:   [materi, sejarah, rempah-rempah, eropa]
+tags:   [materi, kelas 11, sejarah, rempah-rempah, eropa]
 ---
 Jadi di sini nanti diisi materi
 
@@ -13,11 +13,10 @@ Jadi di sini nanti diisi materi
 
 Materi lagi **atau apa pun boleh**
 
-Globally incubate standards compliant channels:
 
 > Ini diisi catatan penting
 
-## Dramatically web services.
+## Sub judul.
 
 Diisi materi lagi
 
