@@ -1,15 +1,15 @@
-title: History Pedia
+title: SEMANTIK
 logo:  logo.png
-description: Dengan website ini anda dapat belajar sejarah mengenai usaha bangsa Eropa dalam mencari rempah-rempah
+description: Sejarah Merkantilisme Itu Asik
 baseurl: "/modul" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Aku Kepo
+  name: Kelompok 5
   image: '/assets/img/author.png'
-  job: Belajar Sejarah Menjadi Lebih Mudah
+  job: SEMANTIK
   bio: Hai teman-teman! nah, di website ini kalian bisa belajar mengenai sejarah merkantilisme dengan lebih mudah loh! akan ada banyak gambar dan infografis untuk mempermudah kalian dalam memahami materinya. Ngga lupa juga nanti akan ada kuis agar kalian bisa mengukur sejauh mana kalian memahami materi merkantilisme ini. Meski pun ada kuis tapi tenang aja teman-teman, kuisnya kami jamin ga susah kok kalau kalian membaca penjelasan dari kami dan juga kabar baiknya nilai dari kuisnya ngga masuk raport :D
   email: forexample@website.com
 
